@@ -15,7 +15,6 @@ class Project:
 
         return "\n-".join(lista)
         
-        return lista
     
     def _authors_siistitty(self, authors):
         return "\n-".join(authors)
